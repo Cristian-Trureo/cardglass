@@ -1,2 +1,2 @@
 # card glass
-Tarjetas con EFECTO MORFISMO de vidrio con HTML y CSS
+Tarjetas con efecto morfismo de vidrio con HTML y CSS
