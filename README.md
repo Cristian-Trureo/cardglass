@@ -3,4 +3,4 @@
 
 ![card-glass-resultado](https://user-images.githubusercontent.com/87190518/188731865-c86296c3-e6e8-40c4-8968-5badb2f036b4.jpg)
 
-Tutorial youtube >>> https://www.youtube.com/watch?v=zQZOOCHTP0s&t
+Ver resultado >>> https://cristian-trureo.github.io/cardglass/
